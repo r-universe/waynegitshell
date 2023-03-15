@@ -1,5 +1,9 @@
 [
   {
+    "package": "GWSDAT",
+    "oncran": true
+  },
+  {
     "package": "R2PPT"
   }
 ]
