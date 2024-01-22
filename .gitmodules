@@ -5,6 +5,3 @@
 [submodule "GWSDAT"]
 	path = GWSDAT
 	url = https://github.com/waynegitshell/gwsdat
-[submodule "R2PPT"]
-	path = R2PPT
-	url = https://github.com/waynegitshell/r2ppt
